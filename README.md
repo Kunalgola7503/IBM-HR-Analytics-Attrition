@@ -254,19 +254,6 @@ probabilities = model.predict_proba(employee_scaled)
 - Improved employee retention rates
 - Enhanced workplace culture insights
 
----
-
-## 🔄 Future Enhancements
-
-- [ ] Complete Power BI interactive dashboard
-- [ ] Deploy model as web application
-- [ ] Add real-time prediction API
-- [ ] Implement advanced deep learning models
-- [ ] Include text analysis of employee feedback
-- [ ] Develop employee engagement scoring system
-- [ ] Create automated reporting system
-
----
 
 ## 👤 Author
 
