@@ -259,7 +259,7 @@ probabilities = model.predict_proba(employee_scaled)
 
 **Kunal Gola**
 - GitHub: [@Kunalgola7503](https://github.com/Kunalgola7503)
-- LinkedIn: [Connect with me](https://www.linkedin.com/in/kunal-gola)
+- LinkedIn: [Connect with me](https://www.linkedin.com/in/kunal-gola-025481313/)
 
 ---
 
